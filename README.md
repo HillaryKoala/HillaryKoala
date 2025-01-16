@@ -1,4 +1,4 @@
-## Hi there 👋
+## INF6027 Student at U of Sheffield 👋
 
 <!--
 **HillaryKoala/HillaryKoala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
